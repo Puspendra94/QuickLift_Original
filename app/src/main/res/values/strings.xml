@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuickLift_Master</string>
+    <string name="title_activity_main">Quick Lift Driver</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_other">OtherActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_free_ride">FreeRideActivity</string>
+    <string name="title_activity_notif">NotifActivity</string>
+    <string name="title_activity_offers">OffersActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_ride">RideActivity</string>
+    <string name="title_activity_terms">TermsActivity</string>
+</resources>
